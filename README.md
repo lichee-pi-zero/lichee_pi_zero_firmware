@@ -141,4 +141,4 @@ https://www.licheepizero.us/downloads/lichee_zero_test_Debian_LXDE.tar.bz2 - boo
 
 From
 https://github.com/petit-miner/Blueberry-PI/wiki 
-https://drive.google.com/open?id=1GIm1OjY2lM_PxxdrHHVd2gWKwr01NvFa - with root/root credentians pair
+https://drive.google.com/open?id=1GIm1OjY2lM_PxxdrHHVd2gWKwr01NvFa - with root/root credentians pair - boot to console only without LCD enabled
